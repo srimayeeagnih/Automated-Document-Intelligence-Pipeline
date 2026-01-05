@@ -1,6 +1,7 @@
 # Automated-Document-Intelligence-Pipeline
 
 **Overview**
+
 An automated document processing system that classifies legal documents and extracts key metadata using pattern-based rules and LLM-assisted OCR analysis.
 Features
 Document Classification
